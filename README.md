@@ -4,7 +4,7 @@ I'm Trung Hieu Nguyen, a CS student based in Toronto, Canada.
 
 If it occurs to me one day that some small thing would be so nice to have... I'll build it.
 
-Navi (pinned below) was the first deliverable piece that helped me take off on this track.
+Navi (pinned below) was the first group deliverable piece that helped me take off on this track.
 
 I'm planning to turn more of my private ideas into working ones!
 
