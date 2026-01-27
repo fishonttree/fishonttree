@@ -4,6 +4,10 @@ I'm Trung Hieu Nguyen, a CS student based in Toronto, Canada.
 
 If it occurs to me one day that some small thing would be so nice to have... I'll build it.
 
+Navi (pinned below) was the first deliverable piece that helped me take off in this track.
+
+I'm planning to turn more of my private ideas into working ones!
+
 ### In short...
 - 🔭 I'm currently working on: Upright Ploog - a web tool for finding campus rooms with upright plugs!
 - 🌱 I’m currently learning: Backend Development, Web Deployment & Cloud
