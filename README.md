@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 
 I'm Trung Hieu Nguyen, a CS student based in Toronto, Canada.
 
