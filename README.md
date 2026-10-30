@@ -9,7 +9,7 @@ Navi (pinned below) was the first group deliverable piece that helped me take of
 I'm planning to turn more of my private ideas into working ones!
 
 ### In short...
-- 🔭 I'm currently working on: Upright Ploog - a web tool for finding campus rooms with upright plugs!
-- 🌱 I’m currently learning: Backend Development, Web Deployment & Cloud
-- 💬 Ask me about: Video game music / Fusion jazz
-- ⚡ Fun fact: I have a thing for Viet translations of classic Russian literature
+- 🔭 I'm currently working on: ZZZ DA Analyzer - collects Deadly Assault videos to analyze & aggregate run data using OCR
+- 🌱 I’m currently learning: full stack development, OCR
+- 💬 Ask me about: music - fusion jazz, for film / game / etc.
+- ⚡ Fun fact: I'm slowly reconnecting with music, might do a gig soon...
